@@ -1,0 +1,9 @@
+.home {
+    background-image: url('../image/pic1.jpg');
+    background-size:cover;
+    background-position: center;
+    height: 90vh; /* Adjust as necessary */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
